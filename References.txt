@@ -1,3 +1,5 @@
-Good introduction:
-http://tom.preston-werner.com/2009/05/19/the-git-parable.html
+Great intro to version control:
+http://www.youtube.com/watch?v=MLLkJ2rngk0
+
+
 
