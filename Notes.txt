@@ -1,0 +1,14 @@
+When you commit you commit what was staged.
+You could make a change to a file then stage it (git add) then make more changes. Now when you commit, you will commit what was staged, not the latest edition of the file. This allows you to work ahead between commits.
+
+>git status
+to see status of files.
+
+>git add *
+to add all files
+
+
+
+What if you accidentally add a file? (eg. if you do git add * you might accidentally add an autosave file.) Use:
+
+>git rm -f file

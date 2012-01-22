@@ -1,5 +1,8 @@
 Great intro to version control:
 http://www.youtube.com/watch?v=MLLkJ2rngk0
 
+adding and committing:
+http://media.pragprog.com/titles/tsgit/chap-005-extract.html
 
+(Consider gitting (ha ha) the book.)
 
