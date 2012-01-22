@@ -27,3 +27,12 @@ Note, cat .git/config to see connection between origin and github. origin was se
 What if you accidentally add a file? (eg. if you do git add * you might accidentally add an autosave file.) Use:
 
 >git rm -f file
+
+Git
+---
+Git is a free & open source, distributed version control system
+
+Every Git clone is a full-fledged repository with complete history and full revision tracking capabilities, not dependent on network access or a central server. Branching and merging are fast and easy to do.
+
+Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
+
