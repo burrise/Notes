@@ -7,6 +7,17 @@ to see status of files.
 >git add *
 to add all files
 
+Three options for commit:
+
+1) commit staged files:
+>git commit -m "reason for commit"
+
+2) automatically commit local changes (can skip the add above):
+>git commit -a -m "reason for commit"
+
+3) commit certain files:
+>git commit -m "reason for commit" file1 file2
+
 
 
 What if you accidentally add a file? (eg. if you do git add * you might accidentally add an autosave file.) Use:
