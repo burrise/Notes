@@ -1,6 +1,9 @@
 Great brief intro to git commands:
 http://scottr.org/presentations/git-in-5-minutes/
 
+More detail:
+http://book.git-scm.com/index.html
+
 Great intro to version control:
 http://www.youtube.com/watch?v=MLLkJ2rngk0
 
