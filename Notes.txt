@@ -24,6 +24,10 @@ When you are ready to push changes to public repository (eg github):
 
 Note, cat .git/config to see connection between origin and github. origin was set up earlier with a command like: git remote add origin git@...
 
+You can edit text documents from github website. To download those changes:
+> git pull
+
+
 What if you accidentally add a file? (eg. if you do git add * you might accidentally add an autosave file.) Use:
 
 >git rm -f file
