@@ -1,3 +1,5 @@
+burrisetest is my test github account (pw is l)
+
 When you commit you commit what was staged.
 You could make a change to a file then stage it (git add) then make more changes. Now when you commit, you will commit what was staged, not the latest edition of the file. This allows you to work ahead between commits.
 
