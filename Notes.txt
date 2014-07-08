@@ -1,3 +1,4 @@
+new
 burrisetest is my test github account (pw is l)
 
 When you commit you commit what was staged.
